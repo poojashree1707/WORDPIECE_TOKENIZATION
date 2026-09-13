@@ -71,13 +71,15 @@ Wordpiece_Tokenizer
 
 #### Shows the final WordPiece vocabulary and vocabulary size after training.
 
-### Conclusion
-
-#### The WordPiece Tokenizer was successfully implemented using Python. The project demonstrates word frequency calculation, initial word splitting, WordPiece training, vocabulary creation, tokenization, and token ID generation. The tokenizer successfully converts input words into meaningful subword tokens, showing how WordPiece tokenization works in Natural Language Processing.
-
 ### Screenshot 5 – Tokenization and Token IDs
+
+<img width="543" height="101" alt="Screenshot 2026-09-13 233721" src="https://github.com/user-attachments/assets/f637153c-3d0a-4290-b97a-efb59130cfd4" />
 
 <img width="575" height="141" alt="Screenshot 2026-09-13 231128" src="https://github.com/user-attachments/assets/63c460c6-a629-4069-ba32-ccabf5e4c2fb" />
 
 #### Shows the input word, generated tokens, and corresponding token IDs, followed by successful program completion.
+
+### Conclusion
+
+#### The WordPiece Tokenizer was successfully implemented using Python. The project demonstrates word frequency calculation, initial word splitting, WordPiece training, vocabulary creation, tokenization, and token ID generation. The tokenizer successfully converts input words into meaningful subword tokens, showing how WordPiece tokenization works in Natural Language Processing.
 
